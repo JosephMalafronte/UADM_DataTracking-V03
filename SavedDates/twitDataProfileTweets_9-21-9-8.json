@@ -1,0 +1,3315 @@
+[
+    {
+        "created_at": "Thu Sep 21 14:41:52 +0000 2017",
+        "id": 910876740720963600,
+        "id_str": "910876740720963585",
+        "text": "RT @UofAlabama: 👏👏 #RollTide! https://t.co/0p3JEYfvk5",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "RollTide",
+                    "indices": [
+                        19,
+                        28
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "UofAlabama",
+                    "name": "The Univ. of Alabama",
+                    "id": 18685948,
+                    "id_str": "18685948",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/0p3JEYfvk5",
+                    "expanded_url": "https://twitter.com/uadancemarathon/status/910871176653803520",
+                    "display_url": "twitter.com/uadancemaratho…",
+                    "indices": [
+                        30,
+                        53
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Sep 21 14:40:12 +0000 2017",
+            "id": 910876321122799600,
+            "id_str": "910876321122799617",
+            "text": "👏👏 #RollTide! https://t.co/0p3JEYfvk5",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "RollTide",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/0p3JEYfvk5",
+                        "expanded_url": "https://twitter.com/uadancemarathon/status/910871176653803520",
+                        "display_url": "twitter.com/uadancemaratho…",
+                        "indices": [
+                            14,
+                            37
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18685948,
+                "id_str": "18685948",
+                "name": "The Univ. of Alabama",
+                "screen_name": "UofAlabama",
+                "location": "Tuscaloosa, AL",
+                "description": "Official account: The University of Alabama #WhereLegendsAreMade™| Home of the Crimson Tide| #RollTide 🐘",
+                "url": "https://t.co/WWeFXtkqBX",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/WWeFXtkqBX",
+                                "expanded_url": "http://www.ua.edu/",
+                                "display_url": "ua.edu",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 122139,
+                "friends_count": 315,
+                "listed_count": 825,
+                "created_at": "Tue Jan 06 17:43:04 +0000 2009",
+                "favourites_count": 10403,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 15697,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "990000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6876929/vertical2d.gif",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6876929/vertical2d.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/771387635071873024/R-67HP5b_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/771387635071873024/R-67HP5b_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18685948/1493132379",
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "CCCCCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 910871176653803500,
+            "quoted_status_id_str": "910871176653803520",
+            "quoted_status": {
+                "created_at": "Thu Sep 21 14:19:46 +0000 2017",
+                "id": 910871176653803500,
+                "id_str": "910871176653803520",
+                "text": "WE DID IT FTK 💯 Thank you everyone for your hard work and support during 100 Dollar Day💰\nWe raised ✨ $63,710.30 ✨… https://t.co/JPHINdDucR",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JPHINdDucR",
+                            "expanded_url": "https://twitter.com/i/web/status/910871176653803520",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                115,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 466150955,
+                    "id_str": "466150955",
+                    "name": "UADM",
+                    "screen_name": "UADanceMarathon",
+                    "location": "Tuscaloosa Alabama ",
+                    "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+                    "url": "http://t.co/MJINVAKjTp",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/MJINVAKjTp",
+                                    "expanded_url": "http://www.uadm.ua.edu",
+                                    "display_url": "uadm.ua.edu",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1266,
+                    "friends_count": 334,
+                    "listed_count": 9,
+                    "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+                    "favourites_count": 744,
+                    "utc_offset": -18000,
+                    "time_zone": "Central Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1915,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+                    "profile_link_color": "89C9FA",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 18,
+                "favorite_count": 24,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 5,
+            "favorite_count": 18,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 910871176653803500,
+        "quoted_status_id_str": "910871176653803520",
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Thu Sep 21 14:19:46 +0000 2017",
+        "id": 910871176653803500,
+        "id_str": "910871176653803520",
+        "text": "WE DID IT FTK 💯 Thank you everyone for your hard work and support during 100 Dollar Day💰\nWe raised ✨ $63,710.30 ✨… https://t.co/JPHINdDucR",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JPHINdDucR",
+                    "expanded_url": "https://twitter.com/i/web/status/910871176653803520",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Sep 21 02:43:48 +0000 2017",
+        "id": 910696030668193800,
+        "id_str": "910696030668193792",
+        "text": "RT @reillyycarr: Imma need everyone to venmo $1 to Cori_AggsUADM bc homegirl is about to raise $600 IN ONE FREAKING DAY for @UADanceMaratho…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "reillyycarr",
+                    "name": "Reilly",
+                    "id": 2946054074,
+                    "id_str": "2946054074",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Sep 21 02:43:06 +0000 2017",
+            "id": 910695856508215300,
+            "id_str": "910695856508215298",
+            "text": "Imma need everyone to venmo $1 to Cori_AggsUADM bc homegirl is about to raise $600 IN ONE FREAKING DAY for @UADanceMarathon 🤑🤑 GO CORI GO",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UADanceMarathon",
+                        "name": "UADM",
+                        "id": 466150955,
+                        "id_str": "466150955",
+                        "indices": [
+                            107,
+                            123
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2946054074,
+                "id_str": "2946054074",
+                "name": "Reilly",
+                "screen_name": "reillyycarr",
+                "location": "Tuscaloosa, AL",
+                "description": "cha cha real smooth • bama DG DONATE BELOW!!!!! VENMO ME: @ReillyFTK",
+                "url": "https://t.co/45JbXdPz0X",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/45JbXdPz0X",
+                                "expanded_url": "http://events.dancemarathon.com/participant/reillycarr",
+                                "display_url": "events.dancemarathon.com/participant/re…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 555,
+                "friends_count": 523,
+                "listed_count": 1,
+                "created_at": "Sun Dec 28 08:19:48 +0000 2014",
+                "favourites_count": 7567,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2280,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/901609076777504768/DXNwyFbw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/901609076777504768/DXNwyFbw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2946054074/1503194739",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "3a22597bb94d08bd",
+                "url": "https://api.twitter.com/1.1/geo/id/3a22597bb94d08bd.json",
+                "place_type": "city",
+                "name": "Tuscaloosa",
+                "full_name": "Tuscaloosa, AL",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -87.626729,
+                                33.098411
+                            ],
+                            [
+                                -87.440084,
+                                33.098411
+                            ],
+                            [
+                                -87.440084,
+                                33.29479
+                            ],
+                            [
+                                -87.626729,
+                                33.29479
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Sep 21 01:17:46 +0000 2017",
+        "id": 910674382485360600,
+        "id_str": "910674382485360640",
+        "text": "DONT FORGET! Chipotle benefit night ends at 9pm! Be sure to say you're with UADM when you check out! #FTK https://t.co/xk3X0efF4j",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FTK",
+                    "indices": [
+                        101,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 910674375023534100,
+                    "id_str": "910674375023534081",
+                    "indices": [
+                        106,
+                        129
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKNdhOVUIAEwgM2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKNdhOVUIAEwgM2.jpg",
+                    "url": "https://t.co/xk3X0efF4j",
+                    "display_url": "pic.twitter.com/xk3X0efF4j",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910674382485360640/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 282,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 192,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 282,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 910674375023534100,
+                    "id_str": "910674375023534081",
+                    "indices": [
+                        106,
+                        129
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKNdhOVUIAEwgM2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKNdhOVUIAEwgM2.jpg",
+                    "url": "https://t.co/xk3X0efF4j",
+                    "display_url": "pic.twitter.com/xk3X0efF4j",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910674382485360640/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 282,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 192,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 282,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            250,
+                            141
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/DKNdhOVUIAEwgM2.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 20 21:58:22 +0000 2017",
+        "id": 910624201765261300,
+        "id_str": "910624201765261312",
+        "text": "@floridadm 💯💃🏻 https://t.co/9hqLelKdN4",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "floridadm",
+                    "name": "Dance Marathon at UF",
+                    "id": 34755385,
+                    "id_str": "34755385",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 910624195561877500,
+                    "id_str": "910624195561877505",
+                    "indices": [
+                        15,
+                        38
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKMv4ZRXcAE0qKF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKMv4ZRXcAE0qKF.jpg",
+                    "url": "https://t.co/9hqLelKdN4",
+                    "display_url": "pic.twitter.com/9hqLelKdN4",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910624201765261312/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 254,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 498,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 498,
+                            "h": 372,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 910624195561877500,
+                    "id_str": "910624195561877505",
+                    "indices": [
+                        15,
+                        38
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKMv4ZRXcAE0qKF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKMv4ZRXcAE0qKF.jpg",
+                    "url": "https://t.co/9hqLelKdN4",
+                    "display_url": "pic.twitter.com/9hqLelKdN4",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910624201765261312/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 254,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 498,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 498,
+                            "h": 372,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            83,
+                            62
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/DKMv4ZRXcAE0qKF.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 910622866877579300,
+        "in_reply_to_status_id_str": "910622866877579264",
+        "in_reply_to_user_id": 34755385,
+        "in_reply_to_user_id_str": "34755385",
+        "in_reply_to_screen_name": "floridadm",
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Wed Sep 20 21:53:40 +0000 2017",
+        "id": 910623015985123300,
+        "id_str": "910623015985123328",
+        "text": "RT @floridadm: .@UADanceMarathon Best of luck on your 100 Dollar Day, we are behind you all the way! The #SEC is #FTK",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SEC",
+                    "indices": [
+                        105,
+                        109
+                    ]
+                },
+                {
+                    "text": "FTK",
+                    "indices": [
+                        113,
+                        117
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "floridadm",
+                    "name": "Dance Marathon at UF",
+                    "id": 34755385,
+                    "id_str": "34755385",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "UADanceMarathon",
+                    "name": "UADM",
+                    "id": 466150955,
+                    "id_str": "466150955",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Sep 20 21:53:04 +0000 2017",
+            "id": 910622866877579300,
+            "id_str": "910622866877579264",
+            "text": ".@UADanceMarathon Best of luck on your 100 Dollar Day, we are behind you all the way! The #SEC is #FTK",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SEC",
+                        "indices": [
+                            90,
+                            94
+                        ]
+                    },
+                    {
+                        "text": "FTK",
+                        "indices": [
+                            98,
+                            102
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UADanceMarathon",
+                        "name": "UADM",
+                        "id": 466150955,
+                        "id_str": "466150955",
+                        "indices": [
+                            1,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 34755385,
+                "id_str": "34755385",
+                "name": "Dance Marathon at UF",
+                "screen_name": "floridadm",
+                "location": "Gainesville, FL",
+                "description": "Raising funds and awareness #ForTheKids at UF Health Shands Children's Hospital, Gainesville's local Children's Miracle Network Hospital",
+                "url": "https://t.co/ZwESTU0LLl",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ZwESTU0LLl",
+                                "expanded_url": "http://www.floridadm.org",
+                                "display_url": "floridadm.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5849,
+                "friends_count": 974,
+                "listed_count": 73,
+                "created_at": "Thu Apr 23 22:36:35 +0000 2009",
+                "favourites_count": 1169,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4378,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "014083",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/606285894/so4s8gkc3312kn6tmffk.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/606285894/so4s8gkc3312kn6tmffk.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/798720947389874176/milrDBbs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/798720947389874176/milrDBbs_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/34755385/1490561404",
+                "profile_link_color": "F25C21",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "0206D4",
+                "profile_text_color": "88C5EC",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 24,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 20 20:15:40 +0000 2017",
+        "id": 910598352697532400,
+        "id_str": "910598352697532422",
+        "text": "RT @UofAlabama: #TodayAtUA, it's $100 Day for @UADanceMarathon ! Miracle Makers will be around campus today raising money #FTK https://t.co…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodayAtUA",
+                    "indices": [
+                        16,
+                        26
+                    ]
+                },
+                {
+                    "text": "FTK",
+                    "indices": [
+                        122,
+                        126
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "UofAlabama",
+                    "name": "The Univ. of Alabama",
+                    "id": 18685948,
+                    "id_str": "18685948",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "UADanceMarathon",
+                    "name": "UADM",
+                    "id": 466150955,
+                    "id_str": "466150955",
+                    "indices": [
+                        46,
+                        62
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Sep 20 20:15:08 +0000 2017",
+            "id": 910598220417552400,
+            "id_str": "910598220417552384",
+            "text": "#TodayAtUA, it's $100 Day for @UADanceMarathon ! Miracle Makers will be around campus today raising money #FTK… https://t.co/QFJV4Vs8ZN",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TodayAtUA",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "text": "FTK",
+                        "indices": [
+                            106,
+                            110
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UADanceMarathon",
+                        "name": "UADM",
+                        "id": 466150955,
+                        "id_str": "466150955",
+                        "indices": [
+                            30,
+                            46
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/QFJV4Vs8ZN",
+                        "expanded_url": "https://twitter.com/i/web/status/910598220417552384",
+                        "display_url": "twitter.com/i/web/status/9…",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18685948,
+                "id_str": "18685948",
+                "name": "The Univ. of Alabama",
+                "screen_name": "UofAlabama",
+                "location": "Tuscaloosa, AL",
+                "description": "Official account: The University of Alabama #WhereLegendsAreMade™| Home of the Crimson Tide| #RollTide 🐘",
+                "url": "https://t.co/WWeFXtkqBX",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/WWeFXtkqBX",
+                                "expanded_url": "http://www.ua.edu/",
+                                "display_url": "ua.edu",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 122139,
+                "friends_count": 315,
+                "listed_count": 825,
+                "created_at": "Tue Jan 06 17:43:04 +0000 2009",
+                "favourites_count": 10403,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 15697,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "990000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6876929/vertical2d.gif",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6876929/vertical2d.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/771387635071873024/R-67HP5b_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/771387635071873024/R-67HP5b_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18685948/1493132379",
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "CCCCCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 42,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 20 17:13:57 +0000 2017",
+        "id": 910552623761252400,
+        "id_str": "910552623761252355",
+        "text": "Um what are you waiting for?? 🍧 https://t.co/jLDQYNB4l3",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 910552615150170100,
+                    "id_str": "910552615150170112",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DKLux3dUMAAURT6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DKLux3dUMAAURT6.jpg",
+                    "url": "https://t.co/jLDQYNB4l3",
+                    "display_url": "pic.twitter.com/jLDQYNB4l3",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910552623761252355/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 910552615150170100,
+                    "id_str": "910552615150170112",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DKLux3dUMAAURT6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DKLux3dUMAAURT6.jpg",
+                    "url": "https://t.co/jLDQYNB4l3",
+                    "display_url": "pic.twitter.com/jLDQYNB4l3",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910552623761252355/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 20 17:13:44 +0000 2017",
+        "id": 910552569264697300,
+        "id_str": "910552569264697344",
+        "text": "💰 ITS 100 DOLLAR DAY 💰Check out these awesome kids that we're raising money for, and help us make a difference!… https://t.co/CtVPp99GHh",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CtVPp99GHh",
+                    "expanded_url": "https://twitter.com/i/web/status/910552569264697344",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 20 14:26:31 +0000 2017",
+        "id": 910510487527403500,
+        "id_str": "910510487527403520",
+        "text": "MOOD: https://t.co/oZspJb564H",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 910510481953181700,
+                    "id_str": "910510481953181697",
+                    "indices": [
+                        6,
+                        29
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKLIdZEW0AEBYgc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKLIdZEW0AEBYgc.jpg",
+                    "url": "https://t.co/oZspJb564H",
+                    "display_url": "pic.twitter.com/oZspJb564H",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910510487527403520/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 400,
+                            "h": 224,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 190,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 224,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 910510481953181700,
+                    "id_str": "910510481953181697",
+                    "indices": [
+                        6,
+                        29
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKLIdZEW0AEBYgc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKLIdZEW0AEBYgc.jpg",
+                    "url": "https://t.co/oZspJb564H",
+                    "display_url": "pic.twitter.com/oZspJb564H",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/910510487527403520/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "large": {
+                            "w": 400,
+                            "h": 224,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 190,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 224,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            25,
+                            14
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/DKLIdZEW0AEBYgc.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 20 11:46:21 +0000 2017",
+        "id": 910470182669340700,
+        "id_str": "910470182669340673",
+        "text": "GET UP ITS 100 DOLLAR DAY #KeepinIt100 💵💰🤑🎄🔋💚♻️",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KeepinIt100",
+                    "indices": [
+                        26,
+                        38
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Sep 19 20:13:33 +0000 2017",
+        "id": 910235434298544100,
+        "id_str": "910235434298544130",
+        "text": "ITS QUESO SZN Y'ALL! 🧀 Head over to Chipotle tomorrow from 5-9pm to help us wrap up 100 Dollar Day #FTK… https://t.co/CoeMFU2xfj",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FTK",
+                    "indices": [
+                        99,
+                        103
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CoeMFU2xfj",
+                    "expanded_url": "https://twitter.com/i/web/status/910235434298544130",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        105,
+                        128
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Sep 19 00:55:39 +0000 2017",
+        "id": 909944039943925800,
+        "id_str": "909944039943925762",
+        "text": "If you didn't know, now you do! Here's how it's going down this Wednesday for 100 DOLLAR DAY 💵 #KeepinIt100 💯 https://t.co/nDswuNnrbp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KeepinIt100",
+                    "indices": [
+                        95,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 909944033425928200,
+                    "id_str": "909944033425928193",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DKDFRv3WsAECFGj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DKDFRv3WsAECFGj.jpg",
+                    "url": "https://t.co/nDswuNnrbp",
+                    "display_url": "pic.twitter.com/nDswuNnrbp",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/909944039943925762/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 909944033425928200,
+                    "id_str": "909944033425928193",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DKDFRv3WsAECFGj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DKDFRv3WsAECFGj.jpg",
+                    "url": "https://t.co/nDswuNnrbp",
+                    "display_url": "pic.twitter.com/nDswuNnrbp",
+                    "expanded_url": "https://twitter.com/UADanceMarathon/status/909944039943925762/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Sep 18 15:16:04 +0000 2017",
+        "id": 909798181558419500,
+        "id_str": "909798181558419457",
+        "text": "Meet Mary Elizabeth! Diagnosed with Acute Lyphoblastic Leukemia at 3, she began chemo within a week. She is now 18+… https://t.co/dft4YiYQkx",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dft4YiYQkx",
+                    "expanded_url": "https://twitter.com/i/web/status/909798181558419457",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 21,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Sep 16 02:47:34 +0000 2017",
+        "id": 908885040892989400,
+        "id_str": "908885040892989440",
+        "text": "\"Come down here and I'll donate to your drive\" https://t.co/7Y5K4wPB7u",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7Y5K4wPB7u",
+                    "expanded_url": "https://twitter.com/motherofincest/status/907082650653020162",
+                    "display_url": "twitter.com/motherofincest…",
+                    "indices": [
+                        47,
+                        70
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 907082650653020200,
+        "quoted_status_id_str": "907082650653020162",
+        "quoted_status": {
+            "created_at": "Mon Sep 11 03:25:31 +0000 2017",
+            "id": 907082650653020200,
+            "id_str": "907082650653020162",
+            "text": "What would Pennywise have to say to get you to go down there with him? https://t.co/yVq87DfvCY",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 907082626057379800,
+                        "id_str": "907082626057379840",
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DJaa16wUIAAy1H-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DJaa16wUIAAy1H-.jpg",
+                        "url": "https://t.co/yVq87DfvCY",
+                        "display_url": "pic.twitter.com/yVq87DfvCY",
+                        "expanded_url": "https://twitter.com/MotherOfIncest/status/907082650653020162/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 732,
+                                "h": 484,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 732,
+                                "h": 484,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 907082626057379800,
+                        "id_str": "907082626057379840",
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DJaa16wUIAAy1H-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DJaa16wUIAAy1H-.jpg",
+                        "url": "https://t.co/yVq87DfvCY",
+                        "display_url": "pic.twitter.com/yVq87DfvCY",
+                        "expanded_url": "https://twitter.com/MotherOfIncest/status/907082650653020162/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 732,
+                                "h": 484,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 732,
+                                "h": 484,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 896954077388693500,
+                "id_str": "896954077388693504",
+                "name": "amber",
+                "screen_name": "MotherOfIncest",
+                "location": "Multifandom ",
+                "description": "Jonerys Warrior",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 654,
+                "friends_count": 73,
+                "listed_count": 8,
+                "created_at": "Mon Aug 14 04:38:11 +0000 2017",
+                "favourites_count": 628,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 583,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/907640682659110912/dy4J_waA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/907640682659110912/dy4J_waA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/896954077388693504/1504072007",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4113,
+            "favorite_count": 20948,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 17,
+        "favorite_count": 66,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Sep 15 17:25:10 +0000 2017",
+        "id": 908743505765429200,
+        "id_str": "908743505765429248",
+        "text": "Come to Pi Kapp from 2-6pm for All DM Day! $5 donations accepted at the door for Children’s of Alabama! Snow cones🍧… https://t.co/qYJfoKiLFu",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qYJfoKiLFu",
+                    "expanded_url": "https://twitter.com/i/web/status/908743505765429248",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Sep 15 15:46:15 +0000 2017",
+        "id": 908718612969607200,
+        "id_str": "908718612969607169",
+        "text": "You've heard of 100 Dollar Day, now here's what it's all about! Help us make a difference next week!  💯💰… https://t.co/bZ1I3lSpDj",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bZ1I3lSpDj",
+                    "expanded_url": "https://twitter.com/i/web/status/908718612969607169",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 13 18:36:30 +0000 2017",
+        "id": 908036685191098400,
+        "id_str": "908036685191098372",
+        "text": "100 DOLLAR DAY IS A WEEK FROM TODAY 🤑 #need #them #bills 💰 #dinero 💵 #benjamins 💯 #moola #greenbacks💲#gettin #paper… https://t.co/K1XmUKBFVC",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "need",
+                    "indices": [
+                        38,
+                        43
+                    ]
+                },
+                {
+                    "text": "them",
+                    "indices": [
+                        44,
+                        49
+                    ]
+                },
+                {
+                    "text": "bills",
+                    "indices": [
+                        50,
+                        56
+                    ]
+                },
+                {
+                    "text": "dinero",
+                    "indices": [
+                        59,
+                        66
+                    ]
+                },
+                {
+                    "text": "benjamins",
+                    "indices": [
+                        69,
+                        79
+                    ]
+                },
+                {
+                    "text": "moola",
+                    "indices": [
+                        82,
+                        88
+                    ]
+                },
+                {
+                    "text": "greenbacks",
+                    "indices": [
+                        89,
+                        100
+                    ]
+                },
+                {
+                    "text": "gettin",
+                    "indices": [
+                        101,
+                        108
+                    ]
+                },
+                {
+                    "text": "paper",
+                    "indices": [
+                        109,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/K1XmUKBFVC",
+                    "expanded_url": "https://twitter.com/i/web/status/908036685191098372",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 35,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Sep 13 15:22:00 +0000 2017",
+        "id": 907987733951459300,
+        "id_str": "907987733951459328",
+        "text": "In 2016, 36,000 students attended UA.More kids get treated for cancer each year than UA students.This is why we're… https://t.co/IJ3gkKouNa",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IJ3gkKouNa",
+                    "expanded_url": "https://twitter.com/i/web/status/907987733951459328",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 33,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Sep 12 14:31:45 +0000 2017",
+        "id": 907612703564460000,
+        "id_str": "907612703564460032",
+        "text": "Meet Alex! Diagnosed in 2008 with Ewing's Sarcoma, he was cancer free 8 long months later! He's using his miracle t… https://t.co/NEBA5XLvTh",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/NEBA5XLvTh",
+                    "expanded_url": "https://twitter.com/i/web/status/907612703564460032",
+                    "display_url": "twitter.com/i/web/status/9…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466150955,
+            "id_str": "466150955",
+            "name": "UADM",
+            "screen_name": "UADanceMarathon",
+            "location": "Tuscaloosa Alabama ",
+            "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+            "url": "http://t.co/MJINVAKjTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MJINVAKjTp",
+                            "expanded_url": "http://www.uadm.ua.edu",
+                            "display_url": "uadm.ua.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 334,
+            "listed_count": 9,
+            "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+            "favourites_count": 744,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 39,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

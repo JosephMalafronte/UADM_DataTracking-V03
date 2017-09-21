@@ -1,0 +1,292 @@
+{
+    "statuses": [
+        {
+            "created_at": "Thu Apr 13 04:51:45 +0000 2017",
+            "id": 852383785639452700,
+            "id_str": "852383785639452672",
+            "text": "Excited for UADM 2018 !",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2799275961,
+                "id_str": "2799275961",
+                "name": "Semaj'",
+                "screen_name": "__Semaj",
+                "location": "Detroit | Tuscaloosa",
+                "description": "UA | Avanti '17 ❤️ | Miss Omega Psi Phi 💜💛  2017",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1042,
+                "friends_count": 715,
+                "listed_count": 1,
+                "created_at": "Thu Oct 02 02:59:59 +0000 2014",
+                "favourites_count": 3880,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 6504,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/833520113043304448/3qiUU1Ji_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/833520113043304448/3qiUU1Ji_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799275961/1488612681",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Apr 12 16:06:43 +0000 2017",
+            "id": 852191257862471700,
+            "id_str": "852191257862471680",
+            "text": "RT @UADanceMarathon: We want YOU to click on the link below and vote for UADM to help us win money toward our total for 2018 🤑 https://t.co…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UADanceMarathon",
+                        "name": "UADM",
+                        "id": 466150955,
+                        "id_str": "466150955",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 270150958,
+                "id_str": "270150958",
+                "name": "Margaret Tiedt",
+                "screen_name": "margarettiedt",
+                "location": "Jerry World",
+                "description": "University of Alabama '17 • UA MBA '18 • Tri Delta • Firm Believer that Dez Caught it • FTK",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 736,
+                "friends_count": 544,
+                "listed_count": 7,
+                "created_at": "Tue Mar 22 02:42:48 +0000 2011",
+                "favourites_count": 5340,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 21310,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0C56EB",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000150185630/A23K-S17.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000150185630/A23K-S17.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/823769765479071744/QrwIi6sN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/823769765479071744/QrwIi6sN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/270150958/1472244059",
+                "profile_link_color": "89C9FA",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "D6CEA9",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Apr 11 14:05:21 +0000 2017",
+                "id": 851798326966202400,
+                "id_str": "851798326966202368",
+                "text": "We want YOU to click on the link below and vote for UADM to help us win money toward our total for 2018 🤑… https://t.co/JcCSAtoJCs",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcCSAtoJCs",
+                            "expanded_url": "https://twitter.com/i/web/status/851798326966202368",
+                            "display_url": "twitter.com/i/web/status/8…",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 466150955,
+                    "id_str": "466150955",
+                    "name": "UADM",
+                    "screen_name": "UADanceMarathon",
+                    "location": "Tuscaloosa Alabama ",
+                    "description": "Standing for those who can't. UADM is a student-run organization that raises funds for Children's of Alabama.",
+                    "url": "http://t.co/MJINVAKjTp",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/MJINVAKjTp",
+                                    "expanded_url": "http://www.uadm.ua.edu",
+                                    "display_url": "uadm.ua.edu",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1222,
+                    "friends_count": 319,
+                    "listed_count": 9,
+                    "created_at": "Tue Jan 17 03:30:35 +0000 2012",
+                    "favourites_count": 680,
+                    "utc_offset": -18000,
+                    "time_zone": "Central Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1842,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680665765/cc914a18fe43eb92a85b574ea3b74225.jpeg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/649668631836495872/pXUJoZFd_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/466150955/1491853640",
+                    "profile_link_color": "89C9FA",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 15,
+                "favorite_count": 7,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.033,
+        "max_id": 852383785639452700,
+        "max_id_str": "852383785639452672",
+        "query": "UADM+since%3A2016-11-11",
+        "refresh_url": "?since_id=852383785639452672&q=UADM%20since%3A2016-11-11&include_entities=1",
+        "count": 3,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
